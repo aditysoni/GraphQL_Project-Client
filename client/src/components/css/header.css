@@ -1,0 +1,25 @@
+.main 
+{
+    background : blue ;
+    margin-bottom: 30px;
+   
+
+} .heading 
+{
+    font-size: 90px;
+    font-weight: 500;
+    display: flex ;
+    
+    justify-content: center;
+    
+}
+
+ .main-home 
+ {
+    
+    align-items: center;
+ }
+.card-body
+{
+    background-color: aqua;
+}
